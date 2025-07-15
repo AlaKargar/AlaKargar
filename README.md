@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Banner.jpg" alt="Banner">
+</p>
+
 <h1 align="center">Hi 👋, I'm Ala</h1>
 <h3 align="center">Passionate about machine learning, data visualization from Iran</h3>
 
