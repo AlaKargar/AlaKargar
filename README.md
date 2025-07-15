@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ala</h1>
 <h3 align="center">Passionate about machine learning, data visualization from Iran</h3>
 
+<img align="right" alt="ala" width="400" src="Coder Girl.Gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakargar&label=Profile%20views&color=0e75b6&style=flat" alt="alakargar" /> </p>
 
 - 🔭 I’m currently working on [Machin Learning models](https://github.com/AlaKargar/Machine-Learning)
