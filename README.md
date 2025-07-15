@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ala</h1>
 <h3 align="center">Passionate about machine learning, data visualization from Iran</h3>
 
-<img align="right" alt="ala" width="400" src="Coder Girl.Gif">
+<img align="right" alt="ala" width="400" src="Coder Girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakargar&label=Profile%20views&color=0e75b6&style=flat" alt="alakargar" /> </p>
 
