@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakargar&label=Profile%20views&color=0e75b6&style=flat" alt="alakargar" /> </p>
 
-- 🔭 I’m currently working on [Machin Learning models](https://github.com/AlaKargar/Machine-Learning)
+- 🔭 I’m currently working on [Machine Learning models](https://github.com/AlaKargar/Machine-Learning)
 
 - 🌱 I’m currently learning Machine Learning and Data Science
 
