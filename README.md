@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ala</h1>
-<h3 align="center">Passionate about Image processing, machinelearning, data visualization from Iran</h3>
+<h3 align="center">Passionate about Image processing, machine learning, data visualization from Iran</h3>
 
 <img align="right" alt="ala" width="400" src="Coder Girl.gif">
 
