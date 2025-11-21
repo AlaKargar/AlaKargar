@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ala</h1>
-<h3 align="center">Passionate about Image processing, Machine learning, Data visualization from Iran</h3>
+<h3 align="center">Passionate about Image Processing, Machine Learning, Machine Vision from Iran</h3>
 
 <img align="right" alt="ala" width="400" src="Coder Girl.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakargar&label=Profile%20views&color=0e75b6&style=flat" alt="alakargar" /> </p>
 
-- 🔭 I’m currently working on [Machine Vision](https://github.com/AlaKargar/Machine-Vision)
+- 🔭 I’m currently working on [Face Recognition](https://github.com/AlaKargar/Face-Recognition)
 
 - 🌱 I’m currently learning Image processing and Machine learning
 
