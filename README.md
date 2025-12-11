@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlaKargar](https://github.com/AlaKargar)
 
-- 💬 Ask me about Python
+- 💬 Ask me about Image Processing
 
 - 📫 How to reach me Alakargar1386@gmail.com
 
