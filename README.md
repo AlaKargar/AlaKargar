@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Ala</h1>
-<h3 align="center">Passionate about Image Processing, Machine Learning, Machine Vision from Iran</h3>
+<h3 align="center">Passionate about Deep Learning, Neural Network & Machine Vision </h3>
 
 <img align="right" alt="ala" width="400" src="Coder Girl.gif">
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Face Recognition](https://github.com/AlaKargar/Face-Recognition)
 
-- 🌱 I’m currently learning Image processing and Machine learning
+- 🌱 I’m currently learning Deep Learning and Machine Vision
 
 - 👨‍💻 All of my projects are available at [https://github.com/AlaKargar](https://github.com/AlaKargar)
 
