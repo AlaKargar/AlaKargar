@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alakargar&label=Profile%20views&color=0e75b6&style=flat" alt="alakargar" /> </p>
 
-- 🔭 I’m currently working on [Face Recognition](https://github.com/AlaKargar/Face-Recognition)
+- 🔭 I’m currently working on [My Own training Course](https://github.com/AlaKargar/My-DS-ML-Course)
 
 - 🌱 I’m currently learning Deep Learning and Machine Vision
 
